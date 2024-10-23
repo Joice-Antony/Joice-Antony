@@ -1,4 +1,4 @@
-
+[![JOICE's GitHub Banner](./assets/banner.png)](https://github.com/joice-antony)
 
 ## Hey 👋, I'm [Joice](http://joiceantony.me/) :)
 
